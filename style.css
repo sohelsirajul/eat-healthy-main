@@ -157,3 +157,11 @@ h1 {
     margin-left: 2.5%;
     margin-right: 10%;
 }
+
+footer {
+    text-align: center;
+    background-image: linear-gradient(black, rgb(11, 2, 27));
+    color: gray;
+    padding-top: 1%;
+    padding-bottom: 8%;
+}
