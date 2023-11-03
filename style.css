@@ -23,6 +23,17 @@ span {
     margin-bottom: 10%;
 }
 
+.youtube {
+    display: flex;
+    box-shadow: 10px 10px 40px gray;
+    margin: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2%;
+    padding-bottom: 3%;
+    border-radius: 30px;
+}
+
 .half-width {
     width: 50%;
 }
@@ -121,4 +132,28 @@ p {
 
 .lorem {
     text-align: center;
+}
+
+h1 {
+    font-size: 35px;
+    margin-bottom: 2%;
+}
+
+.three-text {
+    width: 100%;
+}
+
+.first-text {
+    margin-left: 20%;
+    margin-right: 2.5%;
+}
+
+.second-text {
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+}
+
+.third-text {
+    margin-left: 2.5%;
+    margin-right: 10%;
 }
