@@ -19,6 +19,10 @@ span {
     margin-bottom: 10%;
 }
 
+.my {
+    margin-bottom: 10%;
+}
+
 .half-width {
     width: 50%;
 }
@@ -88,4 +92,33 @@ p {
 
 .img-align {
     margin-right: 25%;
+}
+
+.title {
+    display: flex;
+}
+
+.width {
+    width: 50%;
+    padding: 2%;
+    border-radius: 30px;
+}
+
+.width img {
+    width: 100%;
+}
+
+.food {
+    margin-left: 5%;
+    box-shadow: 2px 2px 20px gray;
+}
+
+.foodd {
+    margin-left: 2%;
+    margin-right: 5%;
+    box-shadow: 2px 2px 20px gray;
+}
+
+.lorem {
+    text-align: center;
 }
