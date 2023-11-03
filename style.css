@@ -11,6 +11,12 @@ span {
     display: flex;
 }
 
+.about-me {
+    display: flex;
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-size: contain;
+}
+
 .half-width {
     width: 50%;
 }
@@ -29,8 +35,8 @@ h1 {
 }
 
 .skip {
-    margin-left: 5%;
     margin-top: 5%;
+    margin-bottom: 10%;
 }
 
 .link-button {
@@ -42,4 +48,42 @@ h1 {
     padding-top: 2%;
     padding-bottom: 2%;
     color: white;
+}
+
+p {
+    text-align: justify;
+}
+
+.half-width img {
+    width: 100%;
+
+}
+
+.image img {
+    width: 45%;
+    margin-left: 25%;
+}
+
+.para {
+    margin-right: 0%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.am {
+    color: gray;
+    font-size: 35px;
+}
+
+.para-font {
+    font-size: 15px;
+    margin-bottom: 7%;
+}
+
+.align {
+    margin-left: 5%;
+}
+
+.img-align {
+    margin-right: 25%;
 }
