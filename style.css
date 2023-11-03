@@ -1,6 +1,7 @@
 body {
     font-family: 'Montserrat', sans-serif;
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 
 span {
@@ -15,6 +16,7 @@ span {
     display: flex;
     background-image: url(images/shapes/Frame\ 58.jpg);
     background-size: contain;
+    margin-bottom: 10%;
 }
 
 .half-width {
